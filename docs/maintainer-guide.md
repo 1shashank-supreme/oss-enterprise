@@ -19,7 +19,7 @@ A great maintainer:
 - Speaks with respect and consideration
    - A good maintainer treats users and contributors fairly, kindly, and with respect.
    - They show appreciation for contributions and are compassionate when offering feedback.
-- Enforces the code of conduct to provide a safe, supportive community
+- Enforces the code of conduct to provide a safe, supportive community and updated one.
 
 ## Preparing your project for open source
 
@@ -43,3 +43,4 @@ An Open Source project is stronger when it has an active and passionate communit
 - Create great documentation that helps users understand how to use your project, this will make community support a useful task for new contributors  
 - Add a roadmap to your project so others can see where it is heading
 - Celebrate contributions by listing contributors in your repository or on the project website
+- Add remaining things which are required for maintaining the repository.
